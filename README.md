@@ -56,8 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MElnaggaro/MElnaggaro/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
